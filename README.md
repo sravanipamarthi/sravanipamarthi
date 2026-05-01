@@ -47,13 +47,13 @@ A production-grade social media platform built with React/TypeScript frontend an
 
 ---
 
-### 🤖 [AI Resume Analyzer](https://github.com/sravanipamarthi/ai-resume-analyzer)
+### 🤖 [ResuMate](https://github.com/sravanipamarthi/resumate)
 An AI-powered resume analysis tool that uses LLM orchestration (Claude API) to parse unstructured resume PDFs, score candidate fit against job descriptions, and generate targeted recommendations.
 - Built with Python/FastAPI backend
 - Converts unstructured resume text → structured JSON via LLM pipeline
 - Generates skill gap analysis and tailored improvement suggestions
 
-**Stack:** `Python` `FastAPI` `Claude API` `LLM Orchestration` `PostgreSQL`
+**Stack:** `Python` `FastAPI` `Claude API` `LLM Orchestration` `MongoDB`
 
 ---
 
